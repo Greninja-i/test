@@ -12,6 +12,8 @@ int main()
     {
         sum = sum + a%10;
     }
+
+
     printf("The sum is : %d\n", sum);
     return 0;
 }
